@@ -14,7 +14,7 @@ Read.bch.sx lets you manage multiple wallets from various applications (such as 
 
 ## Why
 
-We are on the verge of a cambrian explosion of "Bitcoin Apps". We already have several interesting apps running on top of Bitcoin Cash such as [memo.cash](https://memo.cash), [blockpress](https://www.blockpress.com), [yours.org](https://yours.org), [keyport](https://keyport.cash), etc. and there are tons more to come.
+We are on the verge of a cambrian explosion of "Bitcoin Apps". We already have several interesting apps running on top of Bitcoin Cash such as [memo.cash](https://memo.cash), [blockpress](https://www.blockpress.com), [gateway.cash](https://gateway.cash), etc. and there are tons more to come.
 
 One notable thing about these apps is that **each app comes with its own embedded wallet**. This is great for user experience and also helps with reducing risk for users since each wallet is specific to its parent application.
 
