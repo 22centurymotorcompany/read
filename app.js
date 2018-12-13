@@ -24,7 +24,7 @@ var add = function(addr) {
   }
 }
 document.addEventListener("DOMContentLoaded", function(e) {
-  var host = "https://bchsvexplorer.com"
+  var host = "https://explorer.bitcoin.com/bch"
   var tablesource   = document.getElementById("table-template").innerHTML;
   var tabletemplate = Handlebars.compile(tablesource);
   var fundsource   = document.getElementById("fund-template").innerHTML;
