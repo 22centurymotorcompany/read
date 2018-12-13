@@ -6,15 +6,14 @@
 
   <!-- meta -->
   <meta name="twitter:card" content="summary_large_image" />
-  <meta name="twitter:creator" content="@_unwriter" />
-  <meta name="twitter:title" content="read.cash" />
+  <meta name="twitter:title" content="read.bch.sx" />
   <meta name="twitter:description" content="Manage multiple wallets from various Bitcoin applications, in one place, with zero risk." />
-  <meta name="twitter:image" content="https://read.cash/screenshot.png" />
-  <meta property="og:url" content="https://read.cash" />
+  <meta name="twitter:image" content="https://read.bch.sx/screenshot.png" />
+  <meta property="og:url" content="https://read.bch.sx" />
   <meta property="og:type"   content="website" />
-  <meta property="og:title" content="read.cash" />
+  <meta property="og:title" content="read.bch.sx" />
   <meta property="og:description" content="Manage multiple wallets from various Bitcoin applications, in one place, with zero risk." />
-  <meta property="og:image" content="https://read.cash/screenshot.png" />
+  <meta property="og:image" content="https://read.bch.sx/screenshot.png" />
 
   <!-- vendor -->
   <link href="../vendor/bootstrap.css" rel="stylesheet">
@@ -38,14 +37,14 @@
         <pre>
           There is no special API. Simply link to:
 
-          https://read.cash/add#[WALLET ADDRESS]
+          https://read.bch.sx/add#[WALLET ADDRESS]
 
           When a user visits the link, the address will be automatically added.
         </pre>
         <div class='text-right'>
           <div>Example</div>
 
-          <a href="../add#qq4kp3w3yhhvy4gm4jgeza4vus8vpxgrwc90n8rhxe">https://read.cash/add#qq4kp3w3yhhvy4gm4jgeza4vus8vpxgrwc90n8rhxe</a>
+          <a href="../add#qq4kp3w3yhhvy4gm4jgeza4vus8vpxgrwc90n8rhxe">https://read.bch.sx/add#qq4kp3w3yhhvy4gm4jgeza4vus8vpxgrwc90n8rhxe</a>
         </div>
       </div>
       <div class='wallets'>
@@ -66,8 +65,8 @@
   </script>
   <script id='fund-template' type="text/x-handlebars-template">
     <div class='info-content'>
-      <div class='permalink'><i class='fas fa-link'></i>&nbsp;Add <input type='url' value="https://read.cash/add#{{addr}}"></div>
-      <div class='permalink'><i class='fas fa-link'></i>&nbsp;Share <input type='url' value="https://read.cash/share#{{addr}}"></div>
+      <div class='permalink'><i class='fas fa-link'></i>&nbsp;Add <input type='url' value="https://read.bch.sx/add#{{addr}}"></div>
+      <div class='permalink'><i class='fas fa-link'></i>&nbsp;Share <input type='url' value="https://read.bch.sx/share#{{addr}}"></div>
       <div>
         <div>cash address:
           <a class='addr' href='{{host}}/address/bitcoincash:{{addr}}' target="_blank">
@@ -81,13 +80,6 @@
         </div>
       </div>
       <div>{{{qr}}}</div>
-      <div class="money-button-iframe-wrapper" style="width:168px;height:48px;overflow-y:visible;position:relative;z-index:1000;">
-        <iframe src="https://www.moneybutton.com/iframe?to={{addr}}&amount=0.5&type=tip&size=md&color=light&unit=usd&hideAmount=false&enableDropdown=true&webhookUrl=&data="
-          width="168px"
-          height="288px"
-          scrolling="no"
-          style="border:none;">
-        </iframe>
       </div> 
     </div>
   </script>
@@ -102,7 +94,7 @@
 <body class='dark'>
   <div class='container'>
     <nav class="navbar">
-      <a class="navbar-brand" href="../">read.cash</a>
+      <a class="navbar-brand" href="../">read.bch.sx</a>
       <span>
         <a href='#' id='settings'></a>
       </span>
@@ -119,7 +111,7 @@
   </div>
   <hr>
   <div class='footer'>
-  <a href='https://github.com/unwriter/readcash/blob/master/README.md'>How it works</a> - <a href='https://github.com/unwriter/readcash/issues'>Feature Requests</a> - <a href='https://twitter.com/_unwriter'>Contact</a> - <a href='https://discord.gg/JAcweQQ'>Chat</a>
+  <a href='https://github.com/22centurymotorcompany/readcash/blob/gh-pages/README.md'>How it works</a> - <a href='https://github.com/unwriter/readcash/issues'>Feature Requests</a>
   </div>
 </body>
 </html>
