@@ -6,7 +6,7 @@ Manage multiple wallets from various Bitcoin applications, in one place, with ze
 
 ## What
 
-Read.bch.sx lets you manage multiple wallets from various applications (such as [memo.cash](https://memo.cash), [yours.org](https://yours.org), [blockpress](https://www.blockpress.com), etc.) in a single place.
+Read.bch.sx lets you manage multiple wallets from various applications (such as [memo.cash](https://memo.cash), [gateway.cash](https://gateway.cash), [blockpress](https://www.blockpress.com), etc.) in a single place.
 
 1. **Add**: **Add wallets by public address** instead of going through hassle of importing private keys.
 2. **Watch**: Watch all your app wallets in a single place.
