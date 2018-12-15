@@ -6,7 +6,7 @@ Manage multiple wallets from various Bitcoin applications, in one place, with ze
 
 ## What
 
-Read.bch.sx lets you manage multiple wallets from various applications (such as [memo.cash](https://memo.cash), [gateway.cash](https://gateway.cash), [blockpress](https://www.blockpress.com), etc.) in a single place.
+Read.bch.sx lets you manage multiple wallets from various applications (such as [memo.cash](https://memo.cash), [honest.cash](https://honest.cash), [blockpress](https://www.blockpress.com), etc.) in a single place.
 
 1. **Add**: **Add wallets by public address** instead of going through hassle of importing private keys.
 2. **Watch**: Watch all your app wallets in a single place.
@@ -14,7 +14,7 @@ Read.bch.sx lets you manage multiple wallets from various applications (such as 
 
 ## Why
 
-We are on the verge of a cambrian explosion of "Bitcoin Apps". We already have several interesting apps running on top of Bitcoin Cash such as [memo.cash](https://memo.cash), [blockpress](https://www.blockpress.com), [gateway.cash](https://gateway.cash), etc. and there are tons more to come.
+We are on the verge of a cambrian explosion of "Bitcoin Apps". We already have several interesting apps running on top of Bitcoin Cash such as [memo.cash](https://memo.cash), [blockpress](https://www.blockpress.com), [honest.cash](https://honest.cash), etc. and there are tons more to come.
 
 One notable thing about these apps is that **each app comes with its own embedded wallet**. This is great for user experience and also helps with reducing risk for users since each wallet is specific to its parent application.
 
@@ -43,7 +43,7 @@ Try the app at [https://read.bch.sx](https://read.bch.sx). Some of the things yo
 
 1. Add your [memo.cash](https://memo.cash) wallet
 2. Add your [blockpress](https://www.blockpress.com) wallet
-3. Add your [gateway.cash](https://gateway.cash) wallet
+3. Add your [honest.cash](https://honest.cash) wallet
 
 As you start adding wallets, you'll see that the header displays the total sum of all the coins in your wallets.
 
