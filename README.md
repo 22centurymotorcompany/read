@@ -91,4 +91,4 @@ https://read.bch.sx/add#qppsyzk4wzaqp4g5s4n86t7889m4ydm37gms9ya3p5,qpne29ue8chsv
 
 ## Contribute
 
-read.bch.sx is [completely open source](./LICENSE), feel free to [send pull requests](https://github.com/unwriter/readcash/pulls) or [start a dicscussion](https://github.com/unwriter/readcash/issues) if you have feature requests.
+read.bch.sx is [completely open source](./LICENSE), feel free to [send pull requests](https://github.com/fountainhead-cash/readcash/pulls) or [start a dicscussion](https://github.com/unwriter/fountainhead-cash/issues) if you have feature requests.
