@@ -6,7 +6,7 @@ body.dark {
   background: #26547C;
   background: #384059;
   */
-  background: #2a2a2a;
+  background: #202124;
   font-size: 12px;
   color: white;
   text-align: center;
@@ -122,8 +122,8 @@ a.addr {
   color: goldenrod;
 }
 #add {
-  background: crimson;
-  border-color: crimson;
+  background: #185abc;
+  border-color: #185abc;
 }
 .navbar a {
   color: white;
@@ -132,8 +132,8 @@ a.addr {
   border-radius: 0 !important;
 }
 .btn-danger {
-  background: crimson;
-  border-color: crimson;
+  background: #bc1836;
+  border-color: #bc1836;
   font-size: 12px;
 }
 .currency-selectors a:hover {
