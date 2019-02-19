@@ -21,7 +21,7 @@ var balance = function(addr) {
   })
 }
 var rate = function(currency) {
-  return fetch("https://api.coinmarketcap.com/v2/ticker/1831/?convert="+currency)
+  return fetch("https://api.alternative.me/v2/ticker/1831/?convert="+currency)
   .then(function(res) {
     return res.json()
   }).then(function(res) {
