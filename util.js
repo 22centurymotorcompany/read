@@ -21,11 +21,11 @@ var balance = function(addr) {
   })
 }
 var rate = function(currency) {
-  return fetch("https://api.alternative.me/v2/ticker/1831/?convert="+currency)
+  return fetch("https://api.coingecko.com/api/v3/simple/price?ids=bitcoin-cash&vs_currencies="+currency)
   .then(function(res) {
     return res.json()
   }).then(function(res) {
-    return res.data.quotes[currency].price;
+    return res['bitcoin-cash'][''+currency.toLowerCase()+''];
   })
 }
 var convert = function(balance, rate) {
