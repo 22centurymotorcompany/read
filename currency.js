@@ -1,4 +1,9 @@
 var currency_map = {
+  BTC: 'BTC',
+  LTC: 'LTC',
+  ETH: 'ETH',
+  XRP: 'XRP',
+  BCH: 'BCH',
   AD: 'EUR',
   AE: 'AED',
   AF: 'AFN',
